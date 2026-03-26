@@ -1,5 +1,7 @@
 # moda_agent
 
+## **💡 部署說明：**
+> 請參閱 `moda-agent-api-relay`文件中的 **🚀 部署與操作指令**，使用 Docker Compose 啟動服務。
 
 ## 安裝
 - 建立 python = 3.12.8 的虛擬環境
